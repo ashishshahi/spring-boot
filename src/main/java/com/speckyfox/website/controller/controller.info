@@ -1,0 +1,6 @@
+We will create controllers here.
+
+* One type of controllers should be grouped in one package and other type in another package.
+* controller that simply return or render a page like get login page/screen should be name like "getLoginScreen"
+* And, controller that does validate the login request could name as "validateLogin"
+* In case of any confusion of the naming convention reach out to Abhishek

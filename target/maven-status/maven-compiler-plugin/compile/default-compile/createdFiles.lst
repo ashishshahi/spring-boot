@@ -1,0 +1,15 @@
+com\speckyfox\website\util\SubscribeDtoToSubscribe.class
+com\speckyfox\website\service\ContactService.class
+com\speckyfox\website\controller\api\Credentials.class
+com\speckyfox\website\util\ContactDtoToContact.class
+com\speckyfox\website\model\Subscribe.class
+com\speckyfox\website\service\SubscribeService.class
+com\speckyfox\website\repository\ContactRepo.class
+com\speckyfox\website\model\Contact.class
+com\speckyfox\website\controller\api\GeneralController.class
+com\speckyfox\website\dto\SubscribeDto.class
+com\speckyfox\website\dto\ContactDto.class
+com\speckyfox\website\CompanyWebsiteApplication.class
+com\speckyfox\website\repository\ContactRepository.class
+com\speckyfox\website\repository\SubscribeRepository.class
+com\speckyfox\website\repository\SubscribeRepo.class
